@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "My acdamic activities"
+excerpt: "My acdamic activities"
 author_profile: true
 redirect_from: 
   - /about/
