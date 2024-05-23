@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant-FUNDAMENTALS OF ELECTRIC CIRCUITS"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching"
+permalink: /teaching/2023-autumn-teaching assistant
+venue: "Electronic Engineering, CUHK"
+date: 2023-09-15
+location: "CUHK, Hong Kong"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
