@@ -21,7 +21,7 @@ repository               : "Tao_Zhang/Tao_Zhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photograph.jpg"
+  avatar           : "photograph.png"
   name             : "Tao Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Focus on medical robots"
