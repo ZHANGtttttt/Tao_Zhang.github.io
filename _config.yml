@@ -32,12 +32,12 @@ author:
 
   # Academic websites
   arxiv            : #
-  googlescholar    : " "
+  googlescholar    : #" "
   impactstory      : #
-  orcid            : " "
+  orcid            : #" "
   semantic         : # URL
-  pubmed           : " "
-  researchgate     : # https://www.researchgate.net/profile/Tao-Zhang-397
+  pubmed           : #" "
+  researchgate     : "https://www.researchgate.net/profile/Tao-Zhang-397"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
