@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Hong Kong"
+title                    : "Tao Zhang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,23 +21,23 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "photograph.jpg"
+  name             : "Tao Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Focus on medical robots"
+  location         : "Hong Kong"
+  employer         : "The Chinese University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tzhang@link.cuhk.edu.hk" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  arxiv            : #
+  googlescholar    : " "
+  impactstory      : #
+  orcid            : " "
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : " "
+  researchgate     : # https://www.researchgate.net/profile/Tao-Zhang-397
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
