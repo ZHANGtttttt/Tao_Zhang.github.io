@@ -1,5 +1,5 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Inconstant curvature kinematics of parallel continuum robot without static model"
 collection: talks
 type: "Talk"
 permalink: /talks/2014-02-01-talk-2
