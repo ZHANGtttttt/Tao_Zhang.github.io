@@ -17,7 +17,6 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
 None
   
 Skills
