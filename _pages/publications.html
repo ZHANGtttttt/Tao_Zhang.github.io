@@ -8,8 +8,6 @@ author_profile: true
 
 
 
-{% include base_path %}
-
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
@@ -25,7 +23,10 @@ author_profile: true
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endif %}
-
 
 
