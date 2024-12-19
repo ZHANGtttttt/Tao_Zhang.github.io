@@ -7,14 +7,7 @@ excerpt: ' In the study of minimally invasive surgical robots, a mini parallel c
 date: 2024-05-13
 venue: '2024-ICRA'
 
-citation: '@inproceedings{zhang2024inconstant,
-  title={Inconstant curvature kinematics of parallel continuum robot without static model},
-  author={Zhang, Tao and Gao, Huxin and Ren, Hongliang},
-  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
-  pages={5864--5870},
-  year={2024},
-  organization={IEEE}
-}'
+citation: 'Zhang, T., Gao, H., & Ren, H. (2024, May). Inconstant curvature kinematics of parallel continuum robot without static model. In 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 5864-5870). IEEE.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
