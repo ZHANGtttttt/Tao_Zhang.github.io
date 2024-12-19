@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Magnetic Concentric Guidewire Inserting Robot towards Endoscopic Retrograde Cholangiopancreatography"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "Workshop"
+permalink: /talks/2024-ICRA-talk-4
+venue: "ICRA-2024"
+date: 2024-05-13
+location: "Yokohama, Japan"
 ---
 
 [More information here](http://exampleurl.com)
