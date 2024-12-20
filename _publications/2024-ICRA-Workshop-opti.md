@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-ICRA-Workshop-opti
 excerpt: ' in this work, we proposed a fully flexible force sensor composed of FBG and silicone for improved maneuverability in narrow environments. The sensing part is fixed at the end of a flexible parallel continuum wrist (FPCW), providing the sensor with higher flexibility. '
-date: 2009-10-01
+date: 2024-05-13
 venue: 'IEEE ICRA 2024 Workshop'
 
 ---
