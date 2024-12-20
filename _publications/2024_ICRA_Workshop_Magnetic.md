@@ -1,7 +1,7 @@
 ---
 title: "Magnetic Concentric Guidewire Inserting Robot towards Endoscopic Retrograde Cholangiopancreatography"
 collection: publications
-category: conferences
+category: workshop
 permalink: /publication/2024_ICRA_Workshop_Magnetic
 excerpt: ' Endoscopic retrograde cholangiopancreatography (ERCP) is a minimally invasive technique for treating biliary and pancreatic diseases. It requires inserting a guidewire into the bile or pancreatic duct to enable further procedures. However, this is challenging because the duct openings are at an obtuse angle to the direction of the instrument entering the duodenum. The guidewire may fail to adjust its position and posture, causing mis-insertion and tissue damage. To address this issue, we propose a flexible surgical robot with a concentric design that combines magnetic field-driven and tendon-driven methods. A phantom experiment was performed, and the results showed that our mechanism can easily be inserted into the bile or pancreatic duct.'
 date: 2024-05-13
