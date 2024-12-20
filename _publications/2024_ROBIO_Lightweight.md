@@ -7,9 +7,6 @@ excerpt: ' This paper proposes a novel, lightweight, portable, detachable compli
 
 date: 2024-12-10
 venue: '2024-ROBIO'
-<p align="center">
-<img src="images/Robio2024-lightweight.png" alt="lightweight system" width="1000"/>
-</p>
 slidesurl: 'https://zhangtttttt.github.io/Tao_Zhang.github.io/files/2024_Robio_lightweight_slides.pdf'
 paperurl: 'https://zhangtttttt.github.io/Tao_Zhang.github.io/files/2024_Robio_lightweight_slides.pdf'
 citation: 'Zhang, T., Sattar, K., Geng, H.,  Pan, H., Wang, A., Lai, J. & Ren, H. (2024, Dec). Lightweight Handheld Detachable Compliant Robotic Laryngoscope with Lightweight Intelligent Visual Guidance. In 2024 ROBIO. IEEE.'
