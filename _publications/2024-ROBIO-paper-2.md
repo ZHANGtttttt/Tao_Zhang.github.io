@@ -7,7 +7,9 @@ excerpt: ' This paper proposes a dual stereo vision-based method for the three-d
 
 date: 2024-12-12
 venue: '2024-ROBIO'
-
+slidesurl: 'http://ZHANGtttttt/Tao_Zhang.github.io/files/2024_Robio_soft_slides.pdf'
+paperurl: 'http://ZHANGtttttt/Tao_Zhang.github.io/files/2024_Robio_soft_paper.pdf'
+citation: 'Ren, T., Liu, W., Zhang, T.,  Zhao, L., Ren, H. & Lai, J. (2024, Dec). Three-dimensional Morphological Reconstruction of Millimeter-Scale Soft Continuum Robots based on Dual-Stereo-Vision. In 2024 ROBIO. IEEE.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
