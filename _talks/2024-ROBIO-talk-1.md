@@ -1,5 +1,5 @@
 ---
-title: "Lightweight Handheld Detachable Compliant Robotic Laryngoscope with Lightweight Intelligent Visual Guidance"
+title: "Oral Pre  - Lightweight Handheld Detachable Compliant Robotic Laryngoscope with Lightweight Intelligent Visual Guidance"
 collection: talks
 type: "Conference paper talk"
 permalink: /talks/2024-ROBIO-talk-1
