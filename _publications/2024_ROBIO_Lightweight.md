@@ -7,10 +7,13 @@ excerpt: ' This paper proposes a novel, lightweight, portable, detachable compli
 
 date: 2024-12-10
 venue: '2024-ROBIO'
-image: '/images/Robio2024-lightweight.png'
+<p align="center">
+<img src="images/Robio2024-lightweight.png" alt="lightweight system" width="1000"/>
+</p>
 slidesurl: 'https://zhangtttttt.github.io/Tao_Zhang.github.io/files/2024_Robio_lightweight_slides.pdf'
 paperurl: 'https://zhangtttttt.github.io/Tao_Zhang.github.io/files/2024_Robio_lightweight_slides.pdf'
 citation: 'Zhang, T., Sattar, K., Geng, H.,  Pan, H., Wang, A., Lai, J. & Ren, H. (2024, Dec). Lightweight Handheld Detachable Compliant Robotic Laryngoscope with Lightweight Intelligent Visual Guidance. In 2024 ROBIO. IEEE.'
+
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
