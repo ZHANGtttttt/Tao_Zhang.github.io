@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Delicate Flexible Endoscopic Maneuvers: A Fully Soft and Tissue-Compliant Force Sensor based on Fiber Bragg Grating"
+title: "Enhancing Delicate Flexible Endoscopic Maneuvers: A Fully Soft and Tissue-Compliant Force Sensor based on Fiber Bragg Grating(Click for more information)"
 collection: publications
 category: workshop
 permalink: /publication/2024-ICRA-Workshop-opti
