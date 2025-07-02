@@ -1,5 +1,5 @@
 ---
-title: "Muultivariable Calculus for Engineers"
+title: "Multivariable Calculus for Engineers"
 collection: teaching
 type: "Teaching Assistant of Undegraduate courses"
 permalink: /teaching/2023-spring-teaching
