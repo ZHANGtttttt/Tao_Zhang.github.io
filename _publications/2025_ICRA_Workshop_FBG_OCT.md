@@ -1,11 +1,11 @@
 ---
-title: "Magnetic Concentric Guidewire Inserting Robot towards Endoscopic Retrograde Cholangiopancreatography"
+title: "Steerable Tactile-visual Sensor for Transendoscopic Non-Destructive Inspection in Varied Dimension Natural Orifice"
 collection: publications
 category: workshop
-permalink: /publication/2024_ICRA_Workshop_Magnetic
-excerpt: ' Endoscopic retrograde cholangiopancreatography (ERCP) is a minimally invasive technique for treating biliary and pancreatic diseases. It requires inserting a guidewire into the bile or pancreatic duct to enable further procedures. However, this is challenging because the duct openings are at an obtuse angle to the direction of the instrument entering the duodenum. The guidewire may fail to adjust its position and posture, causing mis-insertion and tissue damage. To address this issue, we propose a flexible surgical robot with a concentric design that combines magnetic field-driven and tendon-driven methods. A phantom experiment was performed, and the results showed that our mechanism can easily be inserted into the bile or pancreatic duct.'
-date: 2024-05-13
-venue: '2024-ICRA-CS4+ Workshop/ 2024-ROMAN-Late breaking reports'
+permalink: /publication/2025_ICRA_Workshop_FBG_OCT
+excerpt: ' Due to severe size limitations, conventional tactile and visual diagnostic methods, such as tactile sensing and optical coherence tomography (OCT) scanning, are challenging to achieve in robot-assisted transendoscopic minimally invasive surgery. However, this information is the crucial basis for a surgeon in identifying early-stage tumors that are difficult to distinguish using the endoscopic camera. To solve this issue, we propose a steerable transendoscopic bimodal palpation sensor (TBS) with tactile-visual perception ability. The sensing unit of this sensor consists of fiber Bragg gratings (FBG), OCT fibers, and the flexible skeleton. By integrating two modes of sensing fibers, the proposed TBS can realize the tactile information perception of the contact area and the layered information perception of the biological structure, which is of great significance for realizing the transendoscopic non-destructive inspection. The phantom experiment results show that the proposed tool can detect tumor boundaries and hierarchical structures, and the FBG-based boundary detection accuracy is over 99%.'
+date: 2025-05-23
+venue: '2025-ICRA-RAMI Workshop'
 
 ---
 
