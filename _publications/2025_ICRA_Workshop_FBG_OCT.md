@@ -1,5 +1,5 @@
 ---
-title: "Steerable Tactile-visual Sensor for Transendoscopic Non-Destructive Inspection in Varied Dimension Natural Orifice"
+title: "Steerable Tactile-visual Sensor for Transendoscopic Non-Destructive Inspection in Varied Dimension Natural Orifice(Click for more information)"
 collection: publications
 category: workshop
 permalink: /publication/2025_ICRA_Workshop_FBG_OCT
