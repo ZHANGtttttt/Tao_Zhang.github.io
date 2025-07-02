@@ -1,10 +1,10 @@
 ---
-title: "Robotic Perception and Intelligence"
+title: "Fundamentals Of Electric Circuits"
 collection: teaching
-type: "Undegraduate courses"
-permalink: /teaching/2015-spring-teaching-1
+type: "Teaching Assistant of Undegraduate courses"
+permalink: /teaching/2022-antumn-teaching-1
 venue: "The Chinese University of Hong Kong, Department of Electroinic Engineering"
-date: 2024-01-15
+date: 2022-09-15
 location: "Hong Kong, China"
 ---
 
