@@ -1,10 +1,9 @@
 ---
-title: "Three-dimension Tip Force Perception and Axial Contact Location Identification for Flexible Endoscopy using Tissue-compliant Soft Distal Attachment Cap Sensors"
+title: "Three-dimension Tip Force Perception and Axial Contact Location Identification for Flexible Endoscopy using Tissue-compliant Soft Distal Attachment Cap Sensors(Click for more information)"
 collection: publications
 category: conferences
 permalink: /publication/2025_ICRA_FBG_Sensing
-excerpt: ' In endoluminal surgeries, clinicians rely on visual feedback during endoscope insertion, but lack sufficient tactile perception, hindering efficiency. To address this, we propose a fiber Bragg grating (FBG)–based soft sensor cap that accurately detects contact location and 3D force, with experiments showing less than 3% force error and 98.8% location accuracy, demonstrating its surgical potential.
-**Click the title for more information** '
+excerpt: ' In endoluminal surgeries, clinicians rely on visual feedback during endoscope insertion, but lack sufficient tactile perception, hindering efficiency. To address this, we propose a fiber Bragg grating (FBG)–based soft sensor cap that accurately detects contact location and 3D force, with experiments showing less than 3% force error and 98.8% location accuracy, demonstrating its surgical potential.'
 date: 2025-05-20
 venue: '2025-IEEE ICRA'
 
