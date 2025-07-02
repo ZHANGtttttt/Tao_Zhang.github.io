@@ -1,10 +1,9 @@
 ---
-title: "Inconstant curvature kinematics of parallel continuum robot without static model"
+title: "Inconstant curvature kinematics of parallel continuum robot without static model(Click for more information)"
 collection: publications
 category: conferences
 permalink: /publication/2024_ICRA_Inconstant_curvature
-excerpt: ' In this  study, we proposed a more accurate kinematic model for a parallel continuum wrist in the absence of a complicated static model. The simulation in ANSYS is carried out, and the shape of one of the driving wires, when bending, is fitted by a two-segment polynomial curve. Then, the position of the distal wrist tip can be calculated based on the curve shape. To verify the accuracy of the proposed model, bending simulation and experiment are carried out. The accuracy of the proposed model is compared with that of the kinematic model based on constant curvature assumption.
-**Click the title for more information** '
+excerpt: ' In this  study, we proposed a more accurate kinematic model for a parallel continuum wrist in the absence of a complicated static model. The simulation in ANSYS is carried out, and the shape of one of the driving wires, when bending, is fitted by a two-segment polynomial curve. Then, the position of the distal wrist tip can be calculated based on the curve shape. To verify the accuracy of the proposed model, bending simulation and experiment are carried out. The accuracy of the proposed model is compared with that of the kinematic model based on constant curvature assumption.'
 date: 2024-05-13
 venue: '2024-IEEE ICRA'
 
