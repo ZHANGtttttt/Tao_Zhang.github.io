@@ -1,5 +1,5 @@
 ---
-title: "Three-dimensional Morphological Reconstruction of Millimeter-Scale Soft Continuum Robots based on Dual-Stereo-Vision"
+title: "Three-dimensional Morphological Reconstruction of Millimeter-Scale Soft Continuum Robots based on Dual-Stereo-Vision(Click for more information)"
 collection: publications
 category: conferences
 permalink: /publication/2024-ROBIO-paper-2
