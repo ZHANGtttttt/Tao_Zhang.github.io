@@ -1,5 +1,5 @@
 ---
-title: "Magnetic Concentric Guidewire Inserting Robot towards Endoscopic Retrograde Cholangiopancreatography"
+title: "Magnetic Concentric Guidewire Inserting Robot towards Endoscopic Retrograde Cholangiopancreatography(Click for more information)"
 collection: publications
 category: workshop
 permalink: /publication/2024_ICRA_Workshop_Magnetic
