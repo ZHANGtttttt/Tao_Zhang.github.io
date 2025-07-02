@@ -1,10 +1,9 @@
 ---
-title: "Lightweight Handheld Detachable Compliant Robotic Laryngoscope with Lightweight Intelligent Visual Guidance"
+title: "Lightweight Handheld Detachable Compliant Robotic Laryngoscope with Lightweight Intelligent Visual Guidance(Click for more information)"
 collection: publications
 category: conferences
 permalink: /publication/2024_ROBIO_Lightweight
-excerpt: ' This paper proposes a novel, lightweight, portable, detachable compliant robotic laryngoscope with a lightweight intelligent guidance module to assist with transoral tracheal intubation. A self-contained, lightweight learning-based glottis detection algorithm (within 5 MB parameters) is deployed in the portable device without the need to access additional servers or clouds. The system adopts a modular design, where the robotic section and the driving unit can be detached and reassembled swiftly between the TI procedures.
-**Click the title for more information**'
+excerpt: ' This paper proposes a novel, lightweight, portable, detachable compliant robotic laryngoscope with a lightweight intelligent guidance module to assist with transoral tracheal intubation. A self-contained, lightweight learning-based glottis detection algorithm (within 5 MB parameters) is deployed in the portable device without the need to access additional servers or clouds. The system adopts a modular design, where the robotic section and the driving unit can be detached and reassembled swiftly between the TI procedures.'
 
 date: 2024-12-10
 venue: '2024-ROBIO'
