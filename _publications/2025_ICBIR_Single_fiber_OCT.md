@@ -1,14 +1,14 @@
 ---
-title: "Steerable Tactile-visual Sensor for Transendoscopic Non-Destructive Inspection in Varied Dimension Natural Orifice(Click for more information)"
+title: "Single-fiber Forward-viewing A-scan Optical Coherence Tomography Allows Robot-assisted Blood Vessel Detection and Hemodynamic Monitoring in Complex Luminal Anatomies: APhantom Study(Click for more information)"
 collection: publications
-category: workshop
-permalink: /publication/2025_ICRA_Workshop_FBG_OCT
-excerpt: ' Due to severe size limitations, conventional tactile and visual diagnostic methods, such as tactile sensing and optical coherence tomography (OCT) scanning, are challenging to achieve in robot-assisted transendoscopic minimally invasive surgery. However, this information is the crucial basis for a surgeon in identifying early-stage tumors that are difficult to distinguish using the endoscopic camera. To solve this issue, we propose a steerable transendoscopic bimodal palpation sensor (TBS) with tactile-visual perception ability. The sensing unit of this sensor consists of fiber Bragg gratings (FBG), OCT fibers, and the flexible skeleton. By integrating two modes of sensing fibers, the proposed TBS can realize the tactile information perception of the contact area and the layered information perception of the biological structure, which is of great significance for realizing the transendoscopic non-destructive inspection. The phantom experiment results show that the proposed tool can detect tumor boundaries and hierarchical structures, and the FBG-based boundary detection accuracy is over 99%.'
-date: 2025-05-23
-venue: '2025-ICRA-RAMI Workshop'
+category: Conference paper
+permalink: /publication/2025_ICBIR_Single_fiber_OCT
+excerpt: ' Minimally invasive robotic surgery requires precise information about the subsurface vasculature within complex luminal anatomies, including the position, diameter, and number of blood vessels. Additionally, the blood flow rate in vessels is also crucial for intraoperative decision-making. While endoscopic radial-scanning optical coherence tomography (OCT) catheters face challenges from motion artifacts and luminal adhesion, single-fiber forward-viewing A-scan OCT integrated with robotics offers a promising alternative to detect vasculature in tortuous or stenotic environments. In this study, we designed a vascular phantom experiment to verify the blood vessel detection ability of single-fiber forward-viewing A-scan OCT. Based on imaging the vascular phantom in M-mode (repeated A-scans at the same position) and a decorrelation-based OCT motion contrast algorithm, our system can not only quantitatively measure the location and diameter of the vascular channel, but also provide stable monitoring of qualitative hemodynamic change. These results demonstrate that by combining robotic stabilization and motion contrast OCT analysis, the single-fiber forward-viewing A-scan OCT can provide potential for real-time vascular detection during guided interventions.'
+date: 2025-08-26
+venue: '2025-ICBIR-Zhangye'
 
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
 
-![Main content](https://zhangtttttt.github.io/Tao_Zhang.github.io/images/FBG_OCT_ICRA.png "Main content")
+![Main content](https://zhangtttttt.github.io/Tao_Zhang.github.io/images/2025_ICBIR_OCT.jpg "Main content")
